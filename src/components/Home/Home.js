@@ -8,7 +8,7 @@ import Type from "./Type";
 function Home() {
   return (
     <section>
-      <Container fluid className="home-section" id="home">
+      <Container fluid id="home">
         <Particle />
         <Container className="home-content">
           <Row>
@@ -22,7 +22,7 @@ function Home() {
 
               <h1 className="heading-name">
                 I'M
-                <strong className="main-name"> BHUSH SUPRGYA</strong>
+                <strong className="main-name"> SUPRGYA BHUSHAN</strong>
               </h1>
 
               <div style={{ padding: 50, textAlign: "left" }}>
